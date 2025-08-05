@@ -119,7 +119,6 @@ The application implements several strategies for CAPTCHA handling:
 court_case_search/
 ├── court_case_search.py    # Main application file
 ├── README.md              # This file
-├── requirements.txt       # Python dependencies
 └── case_details.pdf       # Generated PDF (after search)
 ```
 
